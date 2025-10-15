@@ -13,15 +13,17 @@ function App() {
 
   return (
     <div className="bg-gradient-to-br from-gray-900 to-gray-800 min-h-screen text-white font-sans">
-      <Hero />
-      <Skills />
-      <Projects />
-      <div className="max-w-4xl mx-auto px-4">
-        <Contact />
-      </div>
+     
+      <h4>Website will be live soon, working on it. </h4>
     </div>
   )
 }
 
 export default App
+ {/* <Hero />
+      <Skills />
+      <Projects />
+      <div className="max-w-4xl mx-auto px-4">
+        <Contact />
+      </div> */}
 
